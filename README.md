@@ -4,4 +4,5 @@ HitMeUp is a social mobile application that can people make daily plans with the
 
 SadStormi is the mobile appllcation of a clothing brand called Sad Stormi.
 *https://www.figma.com/file/9ambnzEU5N7ME9bTj5LAaQ/26481_SerhanYorulmaz_project?type=design&node-id=7%3A8079&mode=design&t=vfcbJwtW5OZnUY9L-1
+
 *https://www.youtube.com/watch?v=wwcUz6I3VkQ
